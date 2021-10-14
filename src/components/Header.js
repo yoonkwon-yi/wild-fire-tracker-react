@@ -7,6 +7,7 @@ const Header = () => {
       <h1>
         <Icon icon={locationIcon} /> Wildfire Tracker (Powered By NASA)
       </h1>
+      <p>Click Event Icon To Learn More</p>
     </header>
   )
 }
