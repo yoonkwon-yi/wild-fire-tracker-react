@@ -20,7 +20,7 @@ body {
   z-index: 100;
 }
 
-.header h1 {
+.header h1 p {
   font-size: 25px;
   padding: 0;
   margin: 0;
